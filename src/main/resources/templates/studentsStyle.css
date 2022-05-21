@@ -1,0 +1,16 @@
+table{
+    width: 80%;
+    margin-left: 10%;
+}
+td{
+    width: 25%;
+    background-color: #ccc;
+    color: #222;
+}
+.head{
+    background-color: mediumseagreen;
+    color: black;
+}
+body{
+    background-color: mediumseagreen;
+}
